@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
+import './App.css';
 
 export default function Register() {
   const [email, setEmail] = useState('');
@@ -18,7 +19,7 @@ export default function Register() {
   };
 
   return (
-    <div>
+    <div className="form-container">
       <h2>Cadastro</h2>
       <input type="email" placeholder="Email" onChange={e => setEmail(e.target.value)} />
       <input type="password" placeholder="Senha" onChange={e => setPassword(e.target.value)} />

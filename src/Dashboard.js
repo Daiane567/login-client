@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import './App.css';
 
 export default function Dashboard() {
   const [email, setEmail] = useState('');
@@ -32,7 +33,7 @@ export default function Dashboard() {
   };
 
   return (
-    <div>
+    <div className="dashboard-container">
       <h2>Bem-vindo, {email}</h2>
       <button onClick={logout}>Sair</button>
     </div>
