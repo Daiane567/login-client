@@ -6,7 +6,7 @@
 
 <li><a href="docs/01-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li> 
 
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li> 
+<li><a href="https://docs.google.com/spreadsheets/d/1sjTSM4CNGcQEzuNPsOuz_htAC0BtGKndVDC9XZ-gosA/edit?usp=sharing"> Plano de Testes de Softwae</a></li> 
 
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li> 
 
