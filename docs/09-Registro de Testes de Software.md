@@ -34,6 +34,30 @@
 ![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login02.jpg)
 ![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login03.jpg)
 
+## CT003.001 - Armazenamento do token JWT
+
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/token1.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/token2.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/token3.jpg)
+
+## CT004.001 - Exibição do email do usuário
+
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/email1.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/email2.jpg)
+
+## CT004.002 - Redirecionar sem token
+
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/redirecionar1.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/redirecionar2.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/redirecionar3.jpg)
+
+
+## CT005.001 - Logout remove token e redireciona
+
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/Slide1.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login02.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/token3.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login03.jpg)
 
 
 
