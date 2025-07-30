@@ -55,9 +55,8 @@
 ## CT005.001 - Logout remove token e redireciona
 
 ![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/Slide1.jpg)
-![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login02.jpg)
-![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/token3.jpg)
-![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/login03.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/Slide2.jpg)
+![Cadastre-se](https://github.com/Daiane567/login-client/blob/main/img/Apresenta%C3%A7%C3%A3o/Slide3.jpg)
 
 
 
